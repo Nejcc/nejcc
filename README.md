@@ -17,17 +17,6 @@ I am here to code not just programs but experiences, to write not just scripts b
 
 Let’s create something extraordinary together. 🤝
 
-## Status
-
-<p align="center">
-  <a>
-    <img  src="https://github-readme-stats.vercel.app/api?username=nejcc&&show_icons=true&theme=radical"/>
-  </a>
-  <a> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=nejcdev&&show_icons=true&theme=radical"/>
-  </a>
-</p>
-
 ## Knowlage base
 
 ### Languages
