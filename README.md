@@ -1,50 +1,44 @@
+<!-- github.com/nejcc/nejcc — this file renders on your profile. -->
 
-# Welcome to my Profile!
+```
+nejc@github ~ % neofetch
+                                        ┌───────────────────────────────────────┐
+          .-"""-.                       │  nejc ── Software Architect            │
+        /  ^   ^  \                     ├───────────────────────────────────────┤
+       |  (o) (o)  |                    │  role      Software Architect / CTO    │
+       |     v     |                    │  stack     PHP · Laravel · Go · C      │
+        \   '-'   /                     │  exp       23+ years, full-stack       │
+      ___'-._.-'___                     │  location  Working from home 🏠        │
+    _/  / /   \ \  \_                   │  org       @LaravelPlus                │
+   / / / /     \ \ \ \                  │  focus     dev tooling · type safety   │
+  ( ( ( (       ) ) ) )                 │            · language internals        │
+   \ \ \ \     / / / /                  ├───────────────────────────────────────┤
+    ) ) ) )   ( ( ( (                   │  web       nejcc.github.io             │
+   / / / /     \ \ \ \                  │  x         @lordneic                   │
+  ( (_/ /       \ \_) )                 │  writing   dev.to/lordneic · @lordNeic │
+   '-'_/         \_'-'                  └───────────────────────────────────────┘
+```
 
-## About me
+### `~/pinned`
 
-func (About Me 🚀) => I am an ambitious and motivated Software Architect and Programmer 🧑‍💻 with a passion for creating innovative solutions that are as inspiring as they are impactful. As a full-stack web developer, I thrive on building the invisible engines 🔧 that power remarkable digital experiences, dedicating most of my time to the back-end, where the magic truly happens. ✨
+| | | |
+|---|---|---|
+| **[laravelplus](https://github.com/nejcc/laravelplus)** · PHP | **[php-datatypes](https://github.com/nejcc/php-datatypes)** · PHP | **[pan](https://github.com/nejcc/pan)** · PHP |
+| Sync upstream Laravel starter kits | Strict int/float type safety for PHP | Privacy-first product analytics |
+| **[ice](https://github.com/nejcc/ice)** · Python | **[icepeak](https://github.com/nejcc/icepeak)** · Go | **[php-src](https://github.com/nejcc/php-src)** · C |
+| The Ice programming language | Go web framework | PHP interpreter fork |
 
-I believe in solving problems through thoughtful design 🎨, creating useful, enjoyable, and unforgettable user experiences for the web 🌐 and beyond. I am always open to contributing and learning alongside the best professionals 👥 in the field, continuously pushing the boundaries of technology and creativity. 🌟
+### `~/stats`
 
-My journey in coding spans across numerous languages—Rust, Go, Python, C#, Java, PHP, Ruby, C++, HTML, CSS, JSON, XML—each one adding a new layer 🧩 to my skill set and a new perspective on how to solve problems. I have honed my expertise in a diverse range of frameworks, from Laravel, CodeIgniter, Zend, Ruby on Rails, Django, .NET, Next.js, Vue 3, React, Remix, and more. 🛠️ This eclectic mix of languages and tools allows me to pick the right technology for every challenge, ensuring solutions are both elegant and efficient. ⚡
-
-I see life much like a piece of code—a series of events and listeners, inputs, and outputs. We feel, we touch, we smell, we breathe; chunk by chunk, we store our shortcuts into caches, preventing overload and ensuring optimal performance. 🧠 Like any great developer, I believe in creating a strong structure, using classes, handling requests and responses—all to execute our operations with finesse. 🎯
-
-Our bodies are our most sophisticated frameworks 🏗️, designed to harmonize our work, passions, and purpose. Just as in coding, life is about mastering the ups and downs, debugging our issues 🐛, deploying our changes 🚀, and constantly evolving. 🔄
-
-I am here to code not just programs but experiences, to write not just scripts but stories 📖, and to build not just software but solutions that truly matter. 💡
-
-Let’s create something extraordinary together. 🤝
-
-## Knowlage base
-
-### Languages
-
-<p align="center">
-  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/go.svg" alt="js" style="vertical-align:top; margin:4px">
-      <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nejcc&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nejcc&layout=compact&hide_border=true&langs_count=8&theme=dark" alt="top languages" />
 </p>
 
-### Frameworks
-<p align="center">
- <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/vue.svg" alt="vue" style="vertical-align:top; margin:4px">
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nejcc&hide_border=true&theme=dark" alt="streak" />
 
-### Other
-
-<p align="center">  
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="cloud" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="gcp" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-</p>
+<!--
+  Stats/langs/streak images update themselves (hosted services). Nothing to run.
+  Drop &theme=dark on all three for a light profile, or swap to any theme:
+  github.com/anuraghazra/github-readme-stats#themes
+-->
