@@ -1,0 +1,31 @@
+name: Update profile
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # daily 03:00 UTC
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths-ignore: ["*.svg"]
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python update_profile.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # optional: add an ACCESS_TOKEN secret (PAT) to include private repos
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+      - run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dark_mode.svg light_mode.svg
+          git diff --quiet --cached || git commit -m "profile: refresh stats"
+          git push
